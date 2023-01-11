@@ -1,2 +1,3 @@
 # scrutinize
-port scanning TCP/UDP ports.
+
+checks the secuirty of ports.
