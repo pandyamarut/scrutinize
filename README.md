@@ -1,3 +1,3 @@
 # scrutinize
 
-checks the secuirty of ports.
+checks the secuirty of TCP/UDP ports.
